@@ -1,0 +1,1 @@
+Demo for reproduce the question of lost selector

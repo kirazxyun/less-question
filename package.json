@@ -1,0 +1,20 @@
+{
+  "name": "less-question",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rm -rf dist && webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^5.0.1",
+    "less": "^3.13.0",
+    "less-loader": "^7.1.0",
+    "mini-css-extract-plugin": "^1.3.3",
+    "webpack": "^5.10.1",
+    "webpack-cli": "^4.2.0"
+  }
+}
